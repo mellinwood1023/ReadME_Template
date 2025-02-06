@@ -7,6 +7,10 @@
 
 ## Table of Contents (Optional)
 
+
+
+
+
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
@@ -20,11 +24,13 @@
 ## Usage
 
 - to install node: run 'npm i' on your command line 
-- Run 'node index.js' to begin generator
+- Run 'node index.js' or 'npm start' to begin generator
 - Provide detailed responses to the questions in the command line  
 - Your readME will be generated with the title "samplereadme.md"
 - You have created your own read me !
 - Copy/paste into your next project!
+  
+  https://github.com/user-attachments/assets/e4f823bb-7f5f-4402-b98e-3d3f51eebe46
 
 ## Credits
 
